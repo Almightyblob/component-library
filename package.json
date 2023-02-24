@@ -53,7 +53,7 @@
     "@types/faker": "5.1.7",
     "@types/jest": "26.0.20",
     "@types/puppeteer": "5.4.3",
-    "@typescript-eslint/eslint-plugin": "^5.36.2",
+    "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "4.33.0",
     "commitlint-config-cz": "0.13.2",
     "cz-customizable": "6.3.0",
